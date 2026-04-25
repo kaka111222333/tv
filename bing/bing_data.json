@@ -1,0 +1,9 @@
+{
+  "date": "2026-04-25",
+  "title": "Breaking the penguin rules",
+  "copyright": "Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)",
+  "image_url": "bing/bing.jpg",
+  "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
+  "resolution": "1920x1080",
+  "compressed": true
+}
