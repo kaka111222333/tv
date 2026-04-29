@@ -1,7 +1,7 @@
 {
-  "date": "2026-04-28",
-  "title": "Spectacles in the wild",
-  "copyright": "Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)",
+  "date": "2026-04-29",
+  "title": "History anchored in stone",
+  "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
