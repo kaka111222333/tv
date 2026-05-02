@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-01",
-  "title": "A pond of stories",
-  "copyright": "Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)",
+  "date": "2026-05-02",
+  "title": "The magic of Jasper",
+  "copyright": "Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
