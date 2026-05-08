@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-07",
-  "title": "Desert, drawn wide",
-  "copyright": "Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)",
+  "date": "2026-05-08",
+  "title": "More than a hee-haw",
+  "copyright": "Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
