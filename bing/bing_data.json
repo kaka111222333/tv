@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-11",
-  "title": "Underwater architecture",
-  "copyright": "Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)",
+  "date": "2026-05-12",
+  "title": "Flap, dive, survive",
+  "copyright": "Atlantic puffins, Wales (© FLPA/Alamy)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
