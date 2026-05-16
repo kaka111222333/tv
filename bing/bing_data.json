@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-15",
-  "title": "Whale you save me?",
-  "copyright": "A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)",
+  "date": "2026-05-16",
+  "title": "Rock bottom? Not here",
+  "copyright": "Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
