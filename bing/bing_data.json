@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-17",
-  "title": "Quiet peak, loud view",
-  "copyright": "Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)",
+  "date": "2026-05-18",
+  "title": "Hope in the hall",
+  "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
