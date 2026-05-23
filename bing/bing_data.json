@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-22",
-  "title": "The shape of life at sea",
-  "copyright": "Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)",
+  "date": "2026-05-23",
+  "title": "Shell yeah, turtles!",
+  "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
