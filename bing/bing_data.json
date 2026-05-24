@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-23",
-  "title": "Shell yeah, turtles!",
-  "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)",
+  "date": "2026-05-24",
+  "title": "Preserving Europe's wild places",
+  "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
