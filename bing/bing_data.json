@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-27",
-  "title": "No 'otter' like them",
-  "copyright": "Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)",
+  "date": "2026-05-28",
+  "title": "Design meets discipline",
+  "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
