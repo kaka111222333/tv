@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-29",
-  "title": "A 'peak' into history",
-  "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)",
+  "date": "2026-05-30",
+  "title": "Reading between the lines",
+  "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
