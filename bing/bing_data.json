@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-01",
-  "title": "Pride in plain sight",
-  "copyright": "Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)",
+  "date": "2026-06-02",
+  "title": "Between the blues",
+  "copyright": "Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
