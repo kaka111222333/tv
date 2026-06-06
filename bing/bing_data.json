@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-05",
-  "title": "The quiet power of an unclaimed world",
-  "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)",
+  "date": "2026-06-06",
+  "title": "Wander often, wonder more",
+  "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
