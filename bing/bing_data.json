@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-08",
-  "title": "Drift with the current",
-  "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)",
+  "date": "2026-06-09",
+  "title": "Taste the sunset",
+  "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
