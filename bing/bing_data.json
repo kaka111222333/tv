@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-13",
-  "title": "Layers of change",
-  "copyright": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)",
+  "date": "2026-06-14",
+  "title": "History flies high",
+  "copyright": "US flags surrounding the Washington Monument, Washington, DC (© Orhan Cam/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
