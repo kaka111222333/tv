@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-15",
-  "title": "Aged to scenic perfection",
-  "copyright": "Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)",
+  "date": "2026-06-16",
+  "title": "Nature's reef keepers",
+  "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
