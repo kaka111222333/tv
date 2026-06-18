@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-17",
-  "title": "Twist your way up",
-  "copyright": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)",
+  "date": "2026-06-18",
+  "title": "A rock-solid marvel",
+  "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
