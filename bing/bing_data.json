@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-18",
-  "title": "A rock-solid marvel",
-  "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+  "date": "2026-06-19",
+  "title": "A story rising in bronze",
+  "copyright": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
