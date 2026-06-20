@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-19",
-  "title": "A story rising in bronze",
-  "copyright": "National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)",
+  "date": "2026-06-20",
+  "title": "An ocean's frozen cathedral",
+  "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
