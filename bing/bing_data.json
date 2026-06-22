@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-21",
-  "title": "Feathered fathers",
-  "copyright": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
+  "date": "2026-06-22",
+  "title": "A lush kingdom",
+  "copyright": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
