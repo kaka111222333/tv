@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-24",
-  "title": "Pollen meets wings",
-  "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+  "date": "2026-06-25",
+  "title": "Square up to history",
+  "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
