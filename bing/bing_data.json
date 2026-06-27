@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-26",
-  "title": "Current affairs",
-  "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+  "date": "2026-06-27",
+  "title": "The trees that lost ground",
+  "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
