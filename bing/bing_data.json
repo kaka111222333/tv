@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-27",
-  "title": "The trees that lost ground",
-  "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)",
+  "date": "2026-06-28",
+  "title": "Looking sharp",
+  "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
