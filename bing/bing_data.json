@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-29",
-  "title": "Born on fire, held by water",
-  "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+  "date": "2026-06-30",
+  "title": "Where shadows stretch tall",
+  "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
