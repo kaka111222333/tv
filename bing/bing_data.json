@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-04",
-  "title": "The story continues",
-  "copyright": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)",
+  "date": "2026-07-05",
+  "title": "Sea of purple",
+  "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
