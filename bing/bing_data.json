@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-05",
-  "title": "Sea of purple",
-  "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+  "date": "2026-07-06",
+  "title": "A city written in centuries",
+  "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
