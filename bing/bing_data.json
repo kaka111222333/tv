@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-08",
-  "title": "Echoes of a volcanic past",
-  "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+  "date": "2026-07-09",
+  "title": "Tradition in every step",
+  "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
