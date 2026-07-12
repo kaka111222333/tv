@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-11",
-  "title": "Where Brittany meets the tide",
-  "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+  "date": "2026-07-12",
+  "title": "A wilder side of Maine",
+  "copyright": "Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
