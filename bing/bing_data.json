@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-12",
-  "title": "A wilder side of Maine",
-  "copyright": "Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)",
+  "date": "2026-07-13",
+  "title": "Born to rock",
+  "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
