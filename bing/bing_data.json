@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-13",
-  "title": "Born to rock",
-  "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)",
+  "date": "2026-07-14",
+  "title": "Fin-tastic truths",
+  "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
