@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-16",
-  "title": "A waterfront chameleon",
-  "copyright": "Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)",
+  "date": "2026-07-17",
+  "title": "A Greek escape",
+  "copyright": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
