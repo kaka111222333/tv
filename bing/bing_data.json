@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-18",
-  "title": "Going full circle",
-  "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)",
+  "date": "2026-07-19",
+  "title": "Wings at rest",
+  "copyright": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
