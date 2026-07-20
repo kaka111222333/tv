@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-19",
-  "title": "Wings at rest",
-  "copyright": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+  "date": "2026-07-20",
+  "title": "The lunar perspective",
+  "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
