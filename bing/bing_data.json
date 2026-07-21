@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-20",
-  "title": "The lunar perspective",
-  "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)",
+  "date": "2026-07-21",
+  "title": "Hidden in plain arch",
+  "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
