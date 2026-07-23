@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-22",
-  "title": "Small footprint, big impact",
-  "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+  "date": "2026-07-23",
+  "title": "A symphony of petals",
+  "copyright": "Pink dahlia flower (© Harald Biebel/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
