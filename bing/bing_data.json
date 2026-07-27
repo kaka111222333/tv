@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-26",
-  "title": "Between land and sea, life begins",
-  "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+  "date": "2026-07-27",
+  "title": "Chicago, look up!",
+  "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
