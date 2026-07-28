@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-27",
-  "title": "Chicago, look up!",
-  "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)",
+  "date": "2026-07-28",
+  "title": "A balance in motion",
+  "copyright": "A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
