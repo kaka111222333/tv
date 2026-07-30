@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-29",
-  "title": "A comeback with claws",
-  "copyright": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+  "date": "2026-07-30",
+  "title": "A landscape of living heritage",
+  "copyright": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
