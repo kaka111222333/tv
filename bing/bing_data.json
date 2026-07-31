@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-30",
-  "title": "A landscape of living heritage",
-  "copyright": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)",
+  "date": "2026-07-31",
+  "title": "Trailing through time",
+  "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
