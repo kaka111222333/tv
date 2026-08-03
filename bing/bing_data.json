@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-02",
-  "title": "Daughter of the Baltic",
-  "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)",
+  "date": "2026-08-03",
+  "title": "Bright boats, timeless traditions",
+  "copyright": "Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
