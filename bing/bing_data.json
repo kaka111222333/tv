@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-05",
-  "title": "Gates of a hidden kingdom",
-  "copyright": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+  "date": "2026-08-06",
+  "title": "Where the river tests the brave",
+  "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
