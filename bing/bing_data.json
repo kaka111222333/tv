@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-07",
-  "title": "Guiding ships through history",
-  "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+  "date": "2026-08-08",
+  "title": "Crossing into infinity",
+  "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
