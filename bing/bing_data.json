@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-12",
-  "title": "Giants worth protecting",
-  "copyright": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+  "date": "2026-08-13",
+  "title": "Make a wish",
+  "copyright": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
