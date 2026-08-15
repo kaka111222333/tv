@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-14",
-  "title": "Built for paws, not people",
-  "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+  "date": "2026-08-15",
+  "title": "The great balancing act",
+  "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
