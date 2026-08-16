@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-15",
-  "title": "The great balancing act",
-  "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
+  "date": "2026-08-16",
+  "title": "Where swans started a legend",
+  "copyright": "Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
