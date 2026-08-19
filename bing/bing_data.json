@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-18",
-  "title": "Geometry of a star city",
-  "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)",
+  "date": "2026-08-19",
+  "title": "Testing the future of flight",
+  "copyright": "NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
