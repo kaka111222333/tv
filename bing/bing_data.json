@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-25",
-  "title": "Protecting America's treasures",
-  "copyright": "Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)",
+  "date": "2026-08-26",
+  "title": "A sky alive with color",
+  "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
