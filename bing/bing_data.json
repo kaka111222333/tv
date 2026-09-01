@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-31",
-  "title": "A master class in pattern",
-  "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+  "date": "2026-09-01",
+  "title": "A world beneath your feet",
+  "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
