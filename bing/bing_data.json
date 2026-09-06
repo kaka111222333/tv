@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-05",
-  "title": "Small birds, big impact",
-  "copyright": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
+  "date": "2026-09-06",
+  "title": "A reservoir of reflections",
+  "copyright": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
