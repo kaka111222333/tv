@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-06",
-  "title": "A reservoir of reflections",
-  "copyright": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)",
+  "date": "2026-09-07",
+  "title": "Labor's legacy",
+  "copyright": "'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
