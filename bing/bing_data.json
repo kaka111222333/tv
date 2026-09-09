@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-08",
-  "title": "Fields of gold",
-  "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)",
+  "date": "2026-09-09",
+  "title": "Life on India's west coast",
+  "copyright": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
