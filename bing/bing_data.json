@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-09",
-  "title": "Life on India's west coast",
-  "copyright": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+  "date": "2026-09-10",
+  "title": "A patchwork from above",
+  "copyright": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
