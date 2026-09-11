@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-10",
-  "title": "A patchwork from above",
-  "copyright": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+  "date": "2026-09-11",
+  "title": "A legacy of heroism",
+  "copyright": "The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
