@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-14",
-  "title": "Where toughness takes root",
-  "copyright": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+  "date": "2026-09-15",
+  "title": "A crossroad of cultures",
+  "copyright": "Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
