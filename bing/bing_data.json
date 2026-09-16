@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-15",
-  "title": "A crossroad of cultures",
-  "copyright": "Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)",
+  "date": "2026-09-16",
+  "title": "The Arctic's new explorers",
+  "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
