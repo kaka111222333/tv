@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-17",
-  "title": "A toast to the harvest",
-  "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)",
+  "date": "2026-09-18",
+  "title": "Through the heart of the pass",
+  "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
