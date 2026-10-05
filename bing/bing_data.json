@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-04",
-  "title": "The universe is calling",
-  "copyright": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+  "date": "2026-10-05",
+  "title": "Taking the plunge, one lesson at a time",
+  "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
