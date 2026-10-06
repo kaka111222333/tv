@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-05",
-  "title": "Taking the plunge, one lesson at a time",
-  "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)",
+  "date": "2026-10-06",
+  "title": "Earth's story in stripes",
+  "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
