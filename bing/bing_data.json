@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-07",
-  "title": "Puzzled? Follow the trail",
-  "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+  "date": "2026-10-08",
+  "title": "Now you 'sea' me...",
+  "copyright": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
