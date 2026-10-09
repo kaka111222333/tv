@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-08",
-  "title": "Now you 'sea' me...",
-  "copyright": "Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)",
+  "date": "2026-10-09",
+  "title": "Corsica's rocky outposts",
+  "copyright": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
