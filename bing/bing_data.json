@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-11",
-  "title": "Where autumn turns the wheel",
-  "copyright": "Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)",
+  "date": "2026-10-12",
+  "title": "A landscape of living history",
+  "copyright": "White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
