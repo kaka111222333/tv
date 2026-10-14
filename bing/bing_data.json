@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-13",
-  "title": "A symphony in blue and green",
-  "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)",
+  "date": "2026-10-14",
+  "title": "Spirals through time",
+  "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
