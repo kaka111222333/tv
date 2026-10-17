@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-16",
-  "title": "'Peak' into Colorado",
-  "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
+  "date": "2026-10-17",
+  "title": "The past, unearthed",
+  "copyright": "Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
