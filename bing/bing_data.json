@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
-  "title": "75 and thriving",
-  "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+  "date": "2026-10-19",
+  "title": "The road that runs on water",
+  "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
