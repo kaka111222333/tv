@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-19",
-  "title": "The road that runs on water",
-  "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+  "date": "2026-10-20",
+  "title": "Life in the slow lane",
+  "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
