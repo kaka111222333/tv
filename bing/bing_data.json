@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-21",
-  "title": "Winging it over the river",
-  "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+  "date": "2026-10-22",
+  "title": "Still waters, vivid colors",
+  "copyright": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
