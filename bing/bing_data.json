@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
-  "title": "Bookishly extravagant",
-  "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+  "date": "2026-10-25",
+  "title": "Nature's autumn soundtrack",
+  "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
