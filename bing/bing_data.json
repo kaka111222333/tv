@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-25",
-  "title": "Nature's autumn soundtrack",
-  "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+  "date": "2026-10-26",
+  "title": "Hanging in there",
+  "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
