@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-04",
-  "title": "Paddling a painted forest",
-  "copyright": "People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+  "date": "2026-11-05",
+  "title": "One step closer to the summit",
+  "copyright": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
