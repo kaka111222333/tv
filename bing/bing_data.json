@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-07",
-  "title": "The giant that came back",
-  "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
+  "date": "2026-11-08",
+  "title": "A celebration that shines",
+  "copyright": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
