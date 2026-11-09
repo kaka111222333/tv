@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
-  "title": "A celebration that shines",
-  "copyright": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+  "date": "2026-11-09",
+  "title": "Where art finds its rhythm",
+  "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
