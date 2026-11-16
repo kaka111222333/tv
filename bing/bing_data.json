@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-15",
-  "title": "Frosty foliage",
-  "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+  "date": "2026-11-16",
+  "title": "Built to last",
+  "copyright": "Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
