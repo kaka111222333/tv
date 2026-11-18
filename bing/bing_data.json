@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-17",
-  "title": "Step into the great outdoors",
-  "copyright": "Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)",
+  "date": "2026-11-18",
+  "title": "Hunting from dusk till dawn",
+  "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
