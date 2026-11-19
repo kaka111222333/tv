@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-18",
-  "title": "Hunting from dusk till dawn",
-  "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+  "date": "2026-11-19",
+  "title": "Where ideas take shape",
+  "copyright": "The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
