@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-25",
-  "title": "A southwestern snowfall",
-  "copyright": "Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)",
+  "date": "2026-11-26",
+  "title": "Turkey twins",
+  "copyright": "Two wild tom turkeys (© davidsdodd/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
