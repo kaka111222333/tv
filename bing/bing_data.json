@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-27",
-  "title": "Ribbons of gray and gold",
-  "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)",
+  "date": "2026-11-28",
+  "title": "Bridges through time",
+  "copyright": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)",
   "image_url": "bing/bing.jpg",
   "original_url": "https://www.bing.com$(echo "$JSON_RESPONSE" | jq -r .images[0].url)",
   "resolution": "1920x1080",
